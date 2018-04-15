@@ -1,3 +1,6 @@
+# Camera
+persist.camera.HAL3.enabled=1
+
 # Fingerprint
 persist.qfp=true
 persist.qfp.fd_enabled=1
